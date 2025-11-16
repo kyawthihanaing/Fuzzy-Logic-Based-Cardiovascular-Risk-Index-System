@@ -42,6 +42,3 @@ Age, chest pain type, fasting blood sugar (continuous surrogate), total choleste
 - Strong interpretability with low computational cost  
 
 ---
-
-## 📁 Repository Structure
-
